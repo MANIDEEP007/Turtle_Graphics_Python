@@ -8,7 +8,7 @@ for r in range(6):
     turtle.left(50)
     turtle.end_fill()
 
-#Lift Pen and Go to Center of Flowe
+#Lift Pen and Go to Center of Flower
 turtle.penup()
 turtle.goto(0,0)
 turtle.right(90)
